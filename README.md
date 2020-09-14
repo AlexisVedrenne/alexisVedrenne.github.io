@@ -1,7 +1,9 @@
 # Portfolio d'Alexis VEDRENNE
 ### Objectifs :
 **1 . Mettre en oeuvre les technologie web pour créer et héberger mon portfolio**
+
 [![N|Solid](https://img.icons8.com/windows/128/000000/netbeans.png)]()[![N|Solid](https://img.icons8.com/color/96/000000/html-5.png)]()[![N|Solid](https://img.icons8.com/color/128/000000/css3.png)]()[![N|Solid](https://img.icons8.com/color/96/000000/bootstrap.png)]()[![N|Solid](https://img.icons8.com/fluent/96/000000/github.png)]()[![N|Solid](https://img.icons8.com/color/96/000000/git.png)]()
+
 - **NetBeans** : Environement de dévoloppement intégré (IDE) utilisé pour ce projet.
 - **HTML** : Langade de description utilisé pour concevoir les pages web.
 - **CSS** : Lange de style utilisé pour mettre en forme les pages web.
